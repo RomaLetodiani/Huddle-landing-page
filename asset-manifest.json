@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Huddle-landing-page/static/css/main.863c51d9.css",
+    "main.js": "/Huddle-landing-page/static/js/main.4a60cfe6.js",
+    "static/media/illustration-mockups.svg": "/Huddle-landing-page/static/media/illustration-mockups.264994a533e88e58ad2a10b6ae6856e0.svg",
+    "static/media/logo.svg": "/Huddle-landing-page/static/media/logo.2b3c07e4842b59538e846f54ed4b3891.svg",
+    "static/media/bg-desktop.svg": "/Huddle-landing-page/static/media/bg-desktop.6824779f0b32ead7a24a1984c63ba7ca.svg",
+    "static/media/bg-mobile.svg": "/Huddle-landing-page/static/media/bg-mobile.41ba0830da0732cda5596ccb9677862c.svg",
+    "index.html": "/Huddle-landing-page/index.html",
+    "main.863c51d9.css.map": "/Huddle-landing-page/static/css/main.863c51d9.css.map",
+    "main.4a60cfe6.js.map": "/Huddle-landing-page/static/js/main.4a60cfe6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.863c51d9.css",
+    "static/js/main.4a60cfe6.js"
+  ]
+}
