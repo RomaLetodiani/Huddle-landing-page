@@ -20,7 +20,7 @@ export const Content = styled.div`
     justify-content: center;
     align-items: center;
     gap: 50px;
-    margin: 50px 0;
+    margin: 35px 0;
     @media (max-width: 1100px) {
       flex-direction: column;
       text-align: center;
